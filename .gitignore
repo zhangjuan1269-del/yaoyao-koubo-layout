@@ -1,0 +1,14 @@
+node_modules/
+out/
+.tmp*
+.DS_Store
+public/dh/
+public/broll/
+public/bgm/
+public/sfx/
+public/narration*
+timing.json
+*.mp4
+*.mov
+*.wav
+*.mp3
